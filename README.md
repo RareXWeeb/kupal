@@ -1,2 +1,2 @@
 # kupal
-are you kupal?
+are you kupal? aneiyo or not
